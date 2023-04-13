@@ -1,4 +1,6 @@
 # Ton Blockchain Explorer
+- MainNet: https://tonlens.com/
+- TestNet: http://Testnet.tonlens.com
 
 ## Installation
 
